@@ -1,9 +1,9 @@
 # Examen 4 Gabriel Neves
 
-## Objetivo a cumplir
+## Objetivo a cumplir del trabajo
 <img src="Captura.JPG">
 
-### links
+### links usado
 <a href="https://github.com/mdn/learning-area/blob/master/html/tables/assessment-start/blank-template.html">html</a>
 
 ### link CSS
