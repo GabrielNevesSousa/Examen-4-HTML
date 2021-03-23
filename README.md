@@ -17,7 +17,7 @@
 3. El resultado tiene que estar en español
 4. Una vez acabado hay que subrilo a tu cuenta de github y en hay que descomprimir la carpeta en un zip y subirlo al moodle
 
-### Resultado
+### Resultado del trabajo
 <img src="Captura2.JPG">
 
 #### Gabriel Neves
